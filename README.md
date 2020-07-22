@@ -7,7 +7,7 @@ Start by cloning the repository
 
 `$ git clone https://github.com/Tejasharish/Dino-Run.git`<br><br>
 Run the python file run.ipynb<br><br>
-open `$ chrome://dino/ ` in browser<br>
+open `$ chrome://dino/ ` in browser<br><br><br>
 
 Dependencies can be installed using pip install or conda install for Anaconda environment
 
