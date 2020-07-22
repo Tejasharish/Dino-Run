@@ -6,8 +6,8 @@ A Deep Convolutional Neural Network to play Google Chrome's offline Dino Run gam
 Start by cloning the repository
 
 `$ git clone https://github.com/Tejasharish/Dino-Run.git`
-Run the python file run.ipynb
-open chrome://dino/ in browser
+Run the python file run.ipynb<br>
+open `$ chrome://dino/ ` in browser<br>
 
 Dependencies can be installed using pip install or conda install for Anaconda environment
 
